@@ -1,3 +1,5 @@
+Arrival_trace_gen : Creates a text file of random arrival times.
+Service_times_gen : Creates a text of random service times.
 Simulation User Manual
 Overview
 The provided Python code simulates a queuing system where cars arrive based on a specified lambda and undergo service with different service time distributions. The simulation is implemented using the SimPy library.
